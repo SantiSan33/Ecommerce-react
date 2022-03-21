@@ -6,19 +6,21 @@
 
 header.main-header{
   display: flex;
-    width: 100%;
+    width: 80%;
     padding: 15px;
     justify-content: space-between;
 }
 
- ul.navBar{
+ ul.NavBar{
   list-style: none;
   display: flex;
   justify-content: center;
+  justify-items: end;
+
 
 }
 
-ul.navBar li{
+ul.NavBar li{
   margin-right: 12px;
   
 }

@@ -2,7 +2,7 @@
 
 
 
-function navBar(){
+function NavBar(){
     return(
         
           <header className='main-header'>
@@ -10,7 +10,7 @@ function navBar(){
             <img src="logo192.png" className="img-header"  />
             </div>
     
-            <ul className='navBar'>
+            <ul className='NavBar'>
             <li><button>Home</button></li>
             <li><button>Productos</button></li>
             <li><button>Nosotros</button></li>
@@ -22,4 +22,4 @@ function navBar(){
       )
 }
 
-export default navBar
+export default NavBar
