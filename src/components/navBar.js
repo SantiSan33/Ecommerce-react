@@ -1,3 +1,4 @@
+import CartWidget from "./CartWidget/CartWidget"
 
 
 
@@ -16,6 +17,8 @@ function NavBar(){
             <li><button>Nosotros</button></li>
             <li><button>Contacto</button></li>
             </ul>
+
+            <CartWidget />
     
           </header>
           

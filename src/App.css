@@ -6,7 +6,6 @@
 
 header.main-header{
   display: flex;
-    width: 80%;
     padding: 15px;
     justify-content: space-between;
 }
@@ -27,4 +26,10 @@ ul.NavBar li{
 
 container-logo{
   width: 100%;
+  display: flex;
+}
+
+.carroCompras{
+  width: 50px;
+
 }
