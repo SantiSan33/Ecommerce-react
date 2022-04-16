@@ -8,7 +8,7 @@ function NavBar(){
         
           <header className='main-header'>
             <div className='container-logo'>
-            <img src="logo192.png" className="img-header"  />
+            <img src="logo192.png" className="img-header" alt="logo"  />
             </div>
     
             <ul className='NavBar'>
